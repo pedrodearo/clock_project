@@ -8,4 +8,4 @@ Linguaguens utilizadas para o desenvolvimento: HTML, CSS e JavaScript. <br><br>
 <p>Este simples projeto me ofereceu a oportunidade de praticar a estruturação de conteúdo com HTML, a estilização com CSS, e a lógica de programação dinâmica com JavaScript através do DOM.</p>
 <hr>
 <h3>Deploy</h3>
-<a href="https://pedrodearo.github.io/clock/">Clock Project</a>
+<a href="https://pedrodearo.github.io/clock_project/">Clock Project</a>
